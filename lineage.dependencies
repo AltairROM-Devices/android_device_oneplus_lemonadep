@@ -1,6 +1,32 @@
 [
   {
-    "repository": "android_device_oneplus_sm8350-common",
-    "target_path": "device/oneplus/sm8350-common"
+    "remote": "altair",
+    "repository": "AltairROM-Devices/android_device_oneplus_sm8350-common",
+    "target_path": "device/oneplus/sm8350-common",
+    "revision": "13"
+  },
+  {
+    "remote": "altair",
+    "repository": "AltairROM/android_hardware_oplus",
+    "target_path": "hardware/oplus",
+    "revision": "13"
+  },
+  {
+    "remote": "lineage",
+    "repository": "android_kernel_oneplus_sm8350",
+    "target_path": "kernel/oneplus/sm8350",
+    "revision": "lineage-20"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_oneplus_lemonadep",
+    "target_path": "vendor/oneplus/lemonadep",
+    "revision": "lineage-20"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_oneplus_sm8350-common",
+    "target_path": "vendor/oneplus/sm8350-common",
+    "revision": "lineage-20"
   }
 ]
