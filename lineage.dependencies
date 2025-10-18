@@ -18,15 +18,15 @@
     "revision": "lineage-22.2"
   },
   {
-    "remote": "tm",
-    "repository": "proprietary_vendor_oneplus_lemonadep",
+    "remote": "altair",
+    "repository": "AltairROM-Devices/proprietary_vendor_oneplus_lemonadep",
     "target_path": "vendor/oneplus/lemonadep",
-    "revision": "lineage-22.2"
+    "revision": "15"
   },
   {
-    "remote": "tm",
-    "repository": "proprietary_vendor_oneplus_sm8350-common",
+    "remote": "altair",
+    "repository": "AltairROM-Devices/proprietary_vendor_oneplus_sm8350-common",
     "target_path": "vendor/oneplus/sm8350-common",
-    "revision": "lineage-22.2"
+    "revision": "15"
   }
 ]
