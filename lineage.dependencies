@@ -5,9 +5,8 @@
     "target_path": "device/oneplus/sm8350-common"
   },
   {
-    "remote": "tm",
+    "remote": "altair-devices",
     "repository": "proprietary_vendor_oneplus_lemonadep",
-    "target_path": "vendor/oneplus/lemonadep",
-    "revision": "lineage-24.0"
+    "target_path": "vendor/oneplus/lemonadep"
   }
 ]
